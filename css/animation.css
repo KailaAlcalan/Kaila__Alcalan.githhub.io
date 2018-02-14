@@ -1,0 +1,35 @@
+
+
+
+body{
+  font-family: 'Rock Salt', cursive;
+  background-color: lightpink;
+ }
+
+ a, li{
+  font-family: 'Rock Salt', cursive;
+  padding-top: 90px;
+  margin-top: -70px;
+  font-size: 0.6em;
+  color: black;
+}
+
+h6{
+    font-family: 'Rock Salt', cursive;
+    font-size: .6em;
+    margin-top: 10px;
+    margin-left: -70px;
+}
+
+ a:hover{
+  color: red;
+}
+
+h1{
+  font-family: 'Rock Salt', cursive;
+  text-align: center;
+  padding-left: 350px;
+  padding-top: -80px;
+  font-size: 1.4em;
+  color: red;
+}
